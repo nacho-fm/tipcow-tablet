@@ -1,2 +1,2 @@
 # tipcow-tablet
-TipCow in-venue tablet check-in and POS android client
+ TipCow in-venue tablet check-in and POS android client
